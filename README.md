@@ -1,7 +1,7 @@
 
 
 <!--
-  (this file) appears on your GitHub profile.
+  appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
