@@ -1,7 +1,7 @@
 
 
 
- ppears on your GitHub profile.
+on your GitHub profile.
 
 Here are some ideas to get you started:
 
