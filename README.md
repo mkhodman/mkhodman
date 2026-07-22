@@ -3,7 +3,7 @@
 
 on your GitHub profile.
 
-Here are some ideas to get you started:
+are some ideas to get you started:
 
 -
 -
