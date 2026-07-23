@@ -1,7 +1,7 @@
 
 
 
-on your GitHub profile.
+ GitHub profile.
 
 are some ideas to get you started:
 
