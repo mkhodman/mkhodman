@@ -3,7 +3,7 @@
 
  GitHub profile.
 
-are some ideas to get you started:
+ideas to get you started:
 
 -
 -
