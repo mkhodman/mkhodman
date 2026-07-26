@@ -1,7 +1,7 @@
 
 
 
- GitHub profile.
+ profile.
 
  get you started:
 
