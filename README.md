@@ -3,7 +3,7 @@
 
  profile.
 
- get you started:
+ started:
 
 -
 -
