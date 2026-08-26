@@ -14,7 +14,7 @@
 - 😄 Pronouns: ...
 - ⚡  : ...
 
-t requests
+requests
 import base64
 t zipfile
 import 
