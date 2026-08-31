@@ -17,7 +17,7 @@
 requests
 import base64
 t zipfile
-ort 
+t 
 
 # ----------------------------
 # 1️⃣  BASIC SETTINGS
