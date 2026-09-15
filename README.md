@@ -20,7 +20,7 @@ ort base64
  
 
 # ----------------------------
-# 1️⃣  BASIC SETTINGS
+# 1️⃣  BASIC SETTIS
 # ----------------------------
 owner = "OWNER"          # e.g. "torvalds"
 repo  = "REPO"           # e.g. "linux"
