@@ -15,7 +15,7 @@
 - ..
 
 uests
-t base64
+t ase64
 
  
 
