@@ -20,7 +20,7 @@ ts
  
 
 # ----------------------------
-# 1️⃣  BASIC SETTIS
+# 1️⃣ SIC SETTIS
 # ----------------------------
 owner = "OWNER"          # e.g. "torvalds"
 repo  = "REPO"           # e.g. "linux"
