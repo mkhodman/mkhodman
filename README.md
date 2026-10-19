@@ -21,7 +21,7 @@ s: ...
 # ----------------------------
 # 1️⃣ C
 # ----------------------------
-r = WNR"          #  "torvalds"
+r = WNR"          # orvalds"
 epo  = EP"           # e.g. "linux"
 branch = "main"          # or the default branch you need
 # If the repo is private, set a token here:
