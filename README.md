@@ -21,7 +21,7 @@ s: ...
 # ----------------------------
 # 1️⃣ 
 # ----------------------------
-r = WNR"          # ds"
+r = WNR"          # d"
 epo  = EP"           # e.g. "linux"
 branch = "main"          # or the default branch you need
 # If the repo is private, set a token here:
