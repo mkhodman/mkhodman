@@ -27,7 +27,7 @@ branch = "main"          # or the default branch you need
 # If the repo is private, set a token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 eaders{"Authorization": f"token {token}"}
- = {}  # public repo needs no auth
+ = {}  # public repo needs auth
 
 # ----------------------------
 # 2️⃣  FETCH ZIP ARCHIVE (quickest way to get the whole rep
