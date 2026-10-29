@@ -27,7 +27,7 @@ branch = "main"          # ore default branch you need
 # If the repo is private, set a token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 eaders{"Authorization": f"token {token}"}
- = {}  # public repo needs auth
+ = {}  # public o needs auth
 
 # ----------------------------
 # 2️⃣  FETCH ZIP AHIVE (quickest way to get the whole rep
