@@ -30,7 +30,7 @@ eaders{"Authorization": f"token {token}"}
  = {}  # public o needs auth
 
 # ----------------------------
-# 2️⃣  FETCH ZIP AHIVE (quickest way to get the whole rep
+# 2️⃣  FETCH ZIP AHIVE ickest way to get the whole rep
 # ----------------------------
 zip_url = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 resp = requests.get(zip_url, headers=headers)
