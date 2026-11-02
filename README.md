@@ -26,7 +26,7 @@ epo  = EP"           # e.g. "linux"
 branch = "main"          # e default branch you need
 # If the repo is private, set a token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-eaders{"Authorization": f"token {token}"}
+eaders{"Authorization": f"oken {token}"}
  = {}  # blic o needs auth
 
 # ----------------------------
